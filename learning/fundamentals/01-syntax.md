@@ -15,6 +15,12 @@ Learn the basics of HTML and get comfortable with it's syntax and main concepts.
 
 ## Assignment
 
-- [ ] Q1
-- [ ] Q2
-- [ ] apri la PR verso il repo principale
+- [x] Q1
+
+RISPOSTA 1
+
+- [x] Q2
+
+RISPOSTA 2
+
+- [x] apri la PR verso il repo principale
