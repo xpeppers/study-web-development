@@ -11,6 +11,10 @@ nostra! sviluppiamo questa piattaforma studiando il framework (a scelta)
 ## fase 3
 i nuovi arrivati usano e migliorano la piattaforma/prodotto
 
+## fase 4
+una volta che la piattaforma funziona, possiamo valutare di distillarne una versione generica da poter utilizzare in altri gruppi di studio
+
+
 ### impedimenti
 
 - dover' aspettare tutti
