@@ -16,5 +16,7 @@ Learn the basics of HTML and get comfortable with it's syntax and main concepts.
 ## Assignment
 
 - [ ] Q1
+
+blablabla
 - [ ] Q2
 - [ ] apri la PR verso il repo principale
