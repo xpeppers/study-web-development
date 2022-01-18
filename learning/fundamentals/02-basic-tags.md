@@ -13,4 +13,7 @@ Get familiar with the basic HTML tags
 
 - [ ] Q1
 - [ ] Q2
+
+with sand
+
 - [ ] E1 (create html structure to host blog post article)
