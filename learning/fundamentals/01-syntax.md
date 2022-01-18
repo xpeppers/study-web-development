@@ -11,6 +11,7 @@ Learn the basics of HTML and get comfortable with it's syntax and main concepts.
 
 - [Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
 
+- Nuova risorsa
 
 
 ## Assignment
